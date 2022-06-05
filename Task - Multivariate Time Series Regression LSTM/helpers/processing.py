@@ -1,7 +1,5 @@
-from pandas import read_csv
 from pandas import DataFrame
 from pandas import concat
-from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import MinMaxScaler
  
 # convert series to supervised learning, shifting values to prepare future measurements.

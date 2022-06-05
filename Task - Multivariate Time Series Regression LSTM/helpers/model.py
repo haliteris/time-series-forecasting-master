@@ -52,4 +52,3 @@ def evaluation(test_X, test_y, cmodel):
     print('Test RMSE: %.3f' % rmse)
     result = r2_score(test_y, predicted)
     print('Total variance explained by model / Total variance : ',result)
-    

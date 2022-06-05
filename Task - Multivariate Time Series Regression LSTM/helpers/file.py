@@ -1,4 +1,3 @@
-from operator import index
 import pandas as pd
 
 #Prepare (clear any space or tabs, seperate them with commas) and load the data with new headers.
